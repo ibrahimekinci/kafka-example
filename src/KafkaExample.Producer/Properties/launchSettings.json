@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "KafkaExample.Producer": {
+      "commandName": "Project"
+    }
+  }
+}
